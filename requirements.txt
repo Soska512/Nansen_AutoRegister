@@ -1,0 +1,7 @@
+anticaptchaofficial==1.0.53
+beautifulsoup4==4.12.2
+imap_tools==1.2.0
+loguru==0.7.0
+pyuseragents==1.0.5
+requests==2.31.0
+lxml==4.9.3
